@@ -1,0 +1,33 @@
+h1 {
+    color: blueviolet;
+    background-color: rgb(233, 180, 180);
+    font-size: 70px;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(53, 150, 82);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('camal.jpg');
+}
+
+input {
+color: aqua; 
+background-color: rgb(25, 27, 129);
+font-size: 40px;
+}
+
+button {
+    font-size: 50px;
+    color: blue;
+    background-color: rgba(221, 213, 98, 0.541);
+    border-radius: 30px;
+} 
+
+h2 {
+    font-size: 40px;
+    color: rgb(39, 20, 107);
+}
+.hover:hover{
+    color: rgb(255, 251, 5);
+    background-color: rgb(9, 32, 245);
+}
